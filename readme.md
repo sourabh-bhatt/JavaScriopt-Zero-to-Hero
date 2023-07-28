@@ -24,7 +24,7 @@ To the JavaScript Zero to Hero repository! This repository aims to provide a com
 
 JavaScript is a powerful and versatile programming language used for web development, server-side scripting, and much more. Whether you are a beginner taking your first steps into programming or an experienced developer looking to expand your skills, this repository has got you covered.
 
-## Topics Covered
+## Concepts Covered
 
 This repository covers a wide range of JavaScript topics, starting from the very basics to more advanced concepts, including but not limited to:
 
